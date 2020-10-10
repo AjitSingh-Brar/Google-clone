@@ -1,3 +1,8 @@
+## Google Clone
+
+A React application implemented with supporting technologies: Firebase, Material-UI, React Router and Google Custom Search API.
+Google Custom Search API has been used for retrieving the results. Own custom hooks has been implemented with React. Material-UI for responsive design. React Router has been executed for routing between the pages without refreshing the webpages. Firebase for deployin the application: https://clone-bbc57.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
